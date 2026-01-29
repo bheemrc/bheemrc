@@ -2,8 +2,6 @@
 
 Senior Software Engineer at Amazon (Alexa Voice Services) with 10+ years of experience building production systems across **agentic AI platforms**, **full-stack applications**, **audio/acoustic systems**, and **embedded firmware**.
 
-Most of my professional work lives in private enterprise repositories. These public projects reflect my personal interests and side work.
-
 ---
 
 ## What I Build
