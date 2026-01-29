@@ -20,17 +20,23 @@ Most of my professional work lives in private enterprise repositories. These pub
 ### [Thrivix](https://github.com/bheemrc/thrivix)
 Visual multi-agent AI platform with drag-and-drop workflow designer, agent swarm orchestration, and deep research modes. Built with FastAPI, Strands Agents SDK, React 19, and ReactFlow. Deployed on AWS Fargate with AgentCore integration.
 
-### [TradeMaster](https://github.com/bheemrc/trademaster)
+### TradeMaster *(private)*
 AI-powered options trading platform with real-time market data (Databento/OPRA), Claude-driven signal generation, multi-leg strategy builder, and TastyTrade broker integration. FastAPI backend, React/Vite frontend, WebSocket streaming, PostgreSQL, Docker.
 
-### [ResonanceFlow](https://github.com/bheemrc/resonance-flow)
+### ResonanceFlow *(private)*
 AI-powered data analysis framework combining FastAPI, Jupyter notebook management, real-time code execution, and an AI chat interface.
 
-### [Resonance DraftPro](https://github.com/bheemrc/resonance-draftpro-ui)
+### Resonance DraftPro *(private)*
 Full-stack research paper drafting tool with AI-powered section generation, BibTeX citation management, and live PDF preview. Supports IEEE, ACM, and arXiv formats. React/TypeScript frontend with Flask/LaTeX backend.
 
 ### [EdgeFlightOBC](https://github.com/bheemrc/EdgeFlightOBC)
 STM32H743-based flight computer firmware with multi-IMU sensor fusion, FDCAN/UART telemetry, MessagePack serialization, and real-time orientation control. Written in C on ARM Cortex-M7.
+
+### [ActivitySensorCube](https://github.com/bheemrc/ActivitySensorCube)
+IoT kitchen safety monitor using ESP32 with gas/smoke, temperature, motion, and light sensors. BLE connectivity, OLED display, and configurable alert thresholds.
+
+### [Clawdbot Cloudflare Sandbox](https://github.com/bheemrc/clawdbot-cloudflare-sandbox)
+Secure AI assistant sandbox with Docker isolation, filesystem sandboxing, and Cloudflare Zero Trust authentication.
 
 ---
 
