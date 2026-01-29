@@ -23,10 +23,10 @@ Visual multi-agent AI platform with drag-and-drop workflow designer, agent swarm
 ### TradeMaster *(private)*
 AI-powered options trading platform with real-time market data (Databento/OPRA), Claude-driven signal generation, multi-leg strategy builder, and TastyTrade broker integration. FastAPI backend, React/Vite frontend, WebSocket streaming, PostgreSQL, Docker.
 
-### ResonanceFlow *(private)*
+### [ResonanceFlow](https://github.com/bheemrc/resonance-flow)
 AI-powered data analysis framework combining FastAPI, Jupyter notebook management, real-time code execution, and an AI chat interface.
 
-### Resonance DraftPro *(private)*
+### Resonance DraftPro — [UI](https://github.com/bheemrc/resonance-draftpro-ui) | [Core](https://github.com/bheemrc/resonance-draftpro-core)
 Full-stack research paper drafting tool with AI-powered section generation, BibTeX citation management, and live PDF preview. Supports IEEE, ACM, and arXiv formats. React/TypeScript frontend with Flask/LaTeX backend.
 
 ### [EdgeFlightOBC](https://github.com/bheemrc/EdgeFlightOBC)
