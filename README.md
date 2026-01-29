@@ -1,4 +1,4 @@
-# Hi, I'm Bheema Rajulu
+# Hi, I'm Bheema
 
 Senior Software Engineer with 10+ years building production systems across **agentic AI platforms**, **full-stack applications**, **audio/acoustic systems**, and **embedded firmware**.
 
