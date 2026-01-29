@@ -1,6 +1,6 @@
 # Hi, I'm Bheema Rajulu
 
-Senior Software Engineer at Amazon (Alexa Voice Services) with 10+ years of experience building production systems across **agentic AI platforms**, **full-stack applications**, **audio/acoustic systems**, and **embedded firmware**.
+Senior Software Engineer with 10+ years building production systems across **agentic AI platforms**, **full-stack applications**, **audio/acoustic systems**, and **embedded firmware**.
 
 ---
 
